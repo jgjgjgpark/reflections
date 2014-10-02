@@ -2,4 +2,4 @@ What happens when you initialize a repository? Why do you need to do it?
 .git directory is created.
 
 How is the staging area different from the working directory and the repository? What value do you think it offers?
-Staging area collects the changes that you want to commit.
+staging area collects the changes that you a
